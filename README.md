@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="PortraitGeneratorBanner" src="https://github.com/user-attachments/assets/your-banner-image-here" />
+<img width="1200" alt="PortraitGeneratorBanner" src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b509955d-13b3-4a1e-bf8a-69323b28dd78/original=true,quality=90/Untitled%20design.jpeg" />
 </div>
 
 <br/>
