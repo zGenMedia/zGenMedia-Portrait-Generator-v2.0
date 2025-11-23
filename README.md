@@ -13,7 +13,7 @@ Powered by Google’s Gemini 2.5 Flash Image model.
 
 <br/>
 
-🔗 **Live App:** [add link here]  
+🔗 **Live App:** [[here]  ](https://ai.studio/apps/drive/1SxFaWlHKmhJ3IQ9eFXFRH_YvydfcXrkC)
 💬 **Discord Community:** https://discord.gg/Aj2zqx7S  
 ☕ **Support development:** https://ko-fi.com/zgenmedia
 
@@ -119,40 +119,40 @@ Attribution appreciated but not required.
 
 💛 Support the Project
 
-This app — along with Group Photo Fusion, clothing tools, and meme generators — is intentionally free so creators don’t have to rely on paywalled AI platforms.
-
+This app — and others like it — are intentionally free so creators don’t have to rely on restrictive paywalls.
 If it helps you, consider supporting development:
 
 https://ko-fi.com/zgenmedia
 
 Tiers available:
 
-Supporter — $3/mo
-Creator Access — $9/mo
-Power User — $25/mo
-Sponsor — $60/mo
-Corporate / Agency — $250/mo
+Supporter — $3/mo<br/>
+Creator Access — $9/mo<br/>
+Power User — $25/mo<br/>
+Sponsor — $60/mo<br/>
+Corporate / Agency — $250/mo<br/>
 
-Your support covers API + hosting costs and funds new features and apps.
-
-🧠 Feedback & Feature Requests
-
-Found a bug? Want a new scenario, pose pack, or composite option?
-
-Discord: https://discord.gg/Aj2zqx7S
-
-Or open an Issue here on GitHub.
+Every contribution helps cover API + hosting costs and funds new features.
 
 ---
 
+🧠 Feedback, Bugs & Feature Requests
+
+Join the community — share outputs, ask questions, request improvements:<br/>
+Discord: https://discord.gg/Aj2zqx7S <br/>
+Facebook: https://www.facebook.com/groups/alrevolutionmidjourneydalle2stablediffusion <br/>
+Or open an issue here on GitHub.
+
 👤 Creator
 
-Built by zGenMedia — AI tools made for creators, not gatekeepers.
-
-More experiments and apps coming soon.
+Built by zGenMedia — tools made for creators, not gatekeepers.
+More apps coming soon.
 
 <div align="center">
 
-✨ Power to the creators ✊
+✨ Power to the creators ✨
+
+</div>
+
 
 </div> ```
