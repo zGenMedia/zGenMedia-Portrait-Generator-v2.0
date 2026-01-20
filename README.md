@@ -13,7 +13,7 @@ Powered by Google’s Gemini 2.5 Flash Image model.
 
 <br/>
 
-🔗 **Live App:** [[here]  ](https://ai.studio/apps/drive/1SxFaWlHKmhJ3IQ9eFXFRH_YvydfcXrkC)
+🔗 **Live App:** [[here]  ](https://ai.studio/apps/drive/1SxFaWlHKmhJ3IQ9eFXFRH_YvydfcXrkC?fullscreenApplet=true)
 💬 **Discord Community:** https://discord.gg/Aj2zqx7S  
 ☕ **Support development:** https://ko-fi.com/zgenmedia
 
